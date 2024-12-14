@@ -22,7 +22,7 @@ try:
     while run:
         runner_log.write(f"Running at <{datetime.now()}....>\n")
         runner_log.flush()
-        completedProc = subprocess.run(SHELL_CMD)
+        completedProc = subprocess.run(SHELL_CMD, shell=True)
         runner_log.write(f"\tended at <{datetime.now()}> with exit code <{completedProc.returncode}>\n")
         runner_log.flush()
         sleep(RERUN_SLEEP_SEC)
