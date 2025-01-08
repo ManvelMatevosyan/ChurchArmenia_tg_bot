@@ -1,0 +1,672 @@
+2025-01-08 23:14:20,633 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:14:20,633 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:20,657 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:22,657 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:22,681 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:24,681 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:24,709 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:26,710 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:26,734 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:28,735 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:28,762 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:29,295 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:14:29,295 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:14:39,952 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:14:39,952 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:39,977 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:41,977 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:42,003 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:44,003 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:44,030 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:44,711 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:14:44,711 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:14:44,862 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:14:44,862 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:44,886 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:46,886 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:46,912 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:48,912 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:48,936 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:50,936 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:50,963 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:52,963 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:52,990 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:54,990 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:55,018 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:57,019 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:57,045 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:14:59,045 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:14:59,073 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:15:01,074 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:15:01,102 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:15:02,752 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:15:02,752 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:16:26,635 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:16:26,635 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:26,658 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:28,658 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:28,683 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:30,683 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:30,711 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:31,257 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:16:31,257 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:16:31,414 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:16:31,414 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:31,437 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:33,438 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:33,464 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:35,464 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:35,490 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:37,490 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:37,516 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:39,516 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:39,541 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:40,260 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:16:40,261 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:16:40,409 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:16:40,409 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:40,430 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:42,431 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:42,457 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:44,457 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:44,483 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:46,484 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:46,507 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:48,508 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:48,613 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:50,614 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:50,658 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:52,659 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:52,744 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:54,745 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:54,826 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:55,695 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:16:55,696 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:16:55,871 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:16:55,872 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:55,908 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:57,909 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:16:57,993 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:16:59,993 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:00,021 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:02,022 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:02,050 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:04,051 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:04,074 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:06,074 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:06,098 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:08,098 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:08,121 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:10,122 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:10,148 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:12,148 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:12,172 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:14,172 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:14,200 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:16,200 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:16,228 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:18,228 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:18,252 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:20,253 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:20,280 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:22,281 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:22,308 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:24,309 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:24,332 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:26,332 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:26,360 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:28,360 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:28,388 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:30,389 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:30,411 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:32,411 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:32,439 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:34,440 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:34,466 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:35,992 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:17:35,993 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:36,028 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:36,466 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:36,493 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:38,028 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:38,051 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:38,493 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:38,522 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:40,052 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:40,079 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:40,522 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:40,550 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:40,958 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:17:40,958 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:17:42,550 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:17:42,573 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:17:43,222 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:17:43,222 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:18:14,528 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:18:14,528 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:14,555 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:16,555 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:16,581 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:18,582 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:18,606 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:20,607 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:20,629 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:22,630 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:22,657 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:24,657 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:24,681 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:26,682 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:26,705 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:28,706 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:28,732 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:30,733 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:30,759 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:32,759 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:32,786 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:34,787 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:34,815 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:36,815 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:36,841 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:38,841 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:38,867 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:40,868 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:40,892 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:42,893 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:42,920 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:44,921 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:44,947 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:46,947 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:46,973 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:48,973 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:49,001 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:51,001 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:51,026 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:53,027 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:53,051 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:55,051 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:55,077 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:57,078 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:57,106 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:18:59,107 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:18:59,132 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:01,133 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:01,159 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:03,159 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:03,183 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:05,183 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:05,210 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:07,210 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:07,236 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:09,236 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:09,260 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:11,261 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:11,289 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:13,289 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:13,314 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:15,315 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:15,341 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:17,342 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:17,365 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:19,365 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:19,392 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:21,392 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:21,418 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:23,418 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:23,442 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:25,443 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:25,469 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:27,469 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:27,496 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:29,496 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:29,523 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:31,523 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:31,549 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:33,549 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:33,575 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:35,575 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:35,601 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:37,602 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:37,626 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:39,627 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:39,652 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:41,653 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:41,680 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:43,680 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:43,708 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:45,708 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:45,737 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:47,737 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:47,764 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:49,764 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:49,792 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:51,793 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:51,819 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:53,820 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:53,843 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:55,843 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:55,870 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:57,870 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:57,894 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:19:59,895 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:19:59,919 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:01,920 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:01,947 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:03,947 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:03,975 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:05,975 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:05,998 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:07,998 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:08,024 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:10,025 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:10,054 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:12,054 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:12,082 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:14,083 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:14,109 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:16,110 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:16,139 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:18,139 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:18,164 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:20,165 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:20,191 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:22,192 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:22,261 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:24,261 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:24,285 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:26,285 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:26,312 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:28,313 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:28,337 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:30,337 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:30,363 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:32,363 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:32,387 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:34,387 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:34,413 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:36,414 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:36,439 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:38,439 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:38,463 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:40,464 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:40,489 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:40,899 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:20:40,899 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:20:48,128 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:20:48,128 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:48,154 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:50,154 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:50,179 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:52,179 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:52,207 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:54,207 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:54,236 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:56,236 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:56,264 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:20:58,264 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:20:58,287 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:21:00,287 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:21:00,312 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:21:01,451 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:21:01,451 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:21:59,664 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:21:59,664 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:21:59,686 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:01,687 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:01,709 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:03,710 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:03,732 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:05,732 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:05,760 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:07,760 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:07,788 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:09,788 - INFO - Running SHELL_CMD=/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:09,811 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:11,161 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:22:11,161 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
+2025-01-08 23:22:14,316 - INFO - --------STARTING RUNNER-------->
+
+2025-01-08 23:22:14,316 - INFO - Running SHELL_CMD=/usr/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:14,339 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:16,340 - INFO - Running SHELL_CMD=/usr/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:16,366 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:18,367 - INFO - Running SHELL_CMD=/usr/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:18,392 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:20,392 - INFO - Running SHELL_CMD=/usr/bin/python3 /home/debian/Desktop/Mnvsss/ChurchArmenia_tg_bot/app/scripts/ChurchArmenia.py
+
+2025-01-08 23:22:20,419 - CRITICAL - 	ended with exit code <1>
+
+2025-01-08 23:22:22,394 - INFO - --------ENDING RUNNER 	 KEYBOARD INTERRUPT--------
+
+2025-01-08 23:22:22,394 - INFO - --------EXITING RUNNER SCRIPT - BYE--------
+
