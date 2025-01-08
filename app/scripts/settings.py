@@ -1,7 +1,10 @@
 from pathlib import Path
-from sys import executable as PYTHON_BIN
+from sys import executable
 
-ABS_ROOT_DIR = str(Path(__file__).parent.resolve())
+PYTHON_FALLBACK_BIN = "python3.10"
+PYTHON_BIN = executable if executable else PYTHON_FALLBACK_BIN
+
+ABS_ROOT_DIR = str(Path(__file__).parent.parent.resolve())
 
 # runner.py PARAMS
 LOG_PATH = Path(ABS_ROOT_DIR + "/data/runner_log.txt")
