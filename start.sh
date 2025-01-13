@@ -7,7 +7,7 @@ fi
 
 
 cd ./ChurchArmenia_tg_bot/app/
-python3.10 ./runner.py
+python3 ./runner.py
 
 cd ../../
 echo "EXITED START.SH"
