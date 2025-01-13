@@ -1,7 +1,7 @@
 from pathlib import Path
 from sys import executable
 
-PYTHON_FALLBACK_BIN = "python3.10"
+PYTHON_FALLBACK_BIN = "python3"
 PYTHON_BIN = executable if executable else PYTHON_FALLBACK_BIN
 
 ABS_ROOT_DIR = str(Path(__file__).parent.parent.resolve())
